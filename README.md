@@ -1,2 +1,2 @@
-# alpine-ssh-tunnel
-Runtime configurable SSH tunnel based on the lightweight Alpine image
+# alpine-ssh-tunnel for Docker
+Docker runtime configurable SSH tunnel based on the lightweight Alpine image
