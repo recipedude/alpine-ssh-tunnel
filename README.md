@@ -2,6 +2,8 @@
 
 This repo contains a docker, runtime configurable, SSH tunnel based on the lightweight Alpine image.
 
+[![docker pulls](https://img.shields.io/docker/pulls/recipedude/alpine-ssh-tunnel.svg?style=plastic)](https://cloud.docker.com/u/recipedude/repository/docker/recipedude/alpine-ssh-tunnel)
+
 ## Why
 
 Why yet another alpine-ssh-tunnel docker image?
